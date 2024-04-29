@@ -11,6 +11,7 @@
   }
 }
 
+
   @layer base {
     :root {
       --background: 0 0% 100%;
@@ -83,3 +84,35 @@
       @apply bg-background text-foreground;
     }
   }
+
+/*Clerk Override */
+.cl-providerIcon__github{
+  filter: invert(1);
+}
+
+.cl-userButtonPopoverActionButtonIcon {
+  color: white;
+}
+
+.cl-logoBox {
+  height: 40px;
+}
+.cl-dividerLine {
+  background: #252a41;
+  height: 2px;
+}
+
+.cl-socialButtonsIconButton {
+  border: 3px solid #565761;
+}
+
+.cl-internal-wkkub3 {
+  color: white;
+}
+.cl-userButtonPopoverActionButton {
+  color: gainsboro;
+}
+.cl-userButtonPopoverActionButton:hover{
+  color:black;
+  background-color: darkgrey;
+}
