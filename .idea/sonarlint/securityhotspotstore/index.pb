@@ -40,3 +40,19 @@ Z
 *app/(auth)/sign-up/[[...sign-up]]/page.tsx,4\2\427b759ef390307b2a70d4706feb11483dd71d13
 <
 lib/utils.ts,a\8\a85a9c0c67fa0e2a77f6d0f1448fb126c61bbc18
+=
+tsconfig.json,6\1\61ebb9fd6e8cf9082658121d5d81e297791dacd0
+G
+components/HomeCard.tsx,0\6\06e5ec511d45cdd8649c3b69306bbb9a6db932a0
+E
+components/Loader.tsx,f\7\f7d18b40bb5fbe7825024b343c6f21fe81d58987
+I
+actions/stream.actions.ts,0\c\0c47bf99e068f0bef6e054894e778bc3c6141cbc
+R
+"providers/StreamClientProvider.tsx,a\7\a7ed5e4eae426525635e4d76cf92dd8c57d31039
+I
+components/ui/toaster.tsx,1\8\1872d68496652a583e3814981b5b42eebde93057
+K
+components/MeetingModal.tsx,d\c\dcce4ba4ca58eb77550dff661db0a7405649ed5e
+N
+components/MeetingTypeList.tsx,c\b\cb1d083b615e257f6bbdea76bc6235483d5a1ce7

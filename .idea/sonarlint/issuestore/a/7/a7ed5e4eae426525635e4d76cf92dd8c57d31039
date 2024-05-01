@@ -1,0 +1,3 @@
+
+’typescript:S6606"jPrefer using nullish coalescing operator (`??`) instead of a logical or (`||`), as it is a safer operator.(¥³Í¼ÿÿÿÿÿ8šÀƒó1
+™typescript:S2681&"vThis line will not be executed conditionally; only the first statement will be. The rest will execute unconditionally.(›¥äì8»¸Èƒó1
