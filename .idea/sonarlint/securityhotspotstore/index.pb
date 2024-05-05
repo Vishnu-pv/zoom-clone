@@ -62,3 +62,5 @@ K
 components/MeetingSetup.tsx,e\0\e0a87653bdd2b84234eba51ffe22fd37bc69d1fc
 J
 components/MeetingRoom.tsx,6\e\6ebb250f780b22393c6b9d571fe03d27702ebc23
+L
+components/EndCallButton.tsx,5\2\52a44e424fac1ff3ebee5ceaadd71ed306954a9a
