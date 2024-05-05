@@ -14,7 +14,6 @@ const CallList = ({ type }: { type: 'ended' | 'upcoming' | 'recordings' }) => {
     const router = useRouter()
     const [recordings, setRecordings]
         = useState<CallRecording[]>([])
-    const {toast} = useToast()
     const getCalls = () => {
         switch (type){
             case 'ended':
@@ -42,7 +41,7 @@ const CallList = ({ type }: { type: 'ended' | 'upcoming' | 'recordings' }) => {
     }
     const calls = getCalls()
     const noCallsMessage = getNoCallsMessage()
-
+    const {toast} = useToast()
     useEffect(() => {
         const fetchRecordings = async () => {
             try{
